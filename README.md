@@ -80,6 +80,11 @@ The backend runs locally and is exposed via **ngrok**.
 ### Endpoint
 
 ```plaintext
+POST https://appointment-scheduler-assistant-ijgt.onrender.com/api/final-appointment
+```
+### Endpoint
+
+```plaintext
 POST https://palmiest-len-disposedly.ngrok-free.dev/api/final-appointment
 ```
 
